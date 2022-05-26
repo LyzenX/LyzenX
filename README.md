@@ -3,15 +3,17 @@
     <p>Welcome to my pages.</p>
     <h4>
     
+  <!--
   <a herf="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=MociLSeng&show_icons=true" />
   </a>
+  -->
       
   😄 I'm LSeng. A fullstack developer from 🇨🇳.
       
   ✨ Code with
     
-  <div style="width:50%; margin-bottom:0">
+  <div>
       
   [![](https://img.shields.io/badge/Java-E6882E?logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
   ![](https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white)
@@ -33,7 +35,6 @@
   [![](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)](https://www.arduino.cc/)
   [![](https://img.shields.io/badge/RaspberryPi-A22846?logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org/)
   [![](https://img.shields.io/badge/OpenHarmony-gray?logo=Osano&logoColor=white)](https://developer.harmonyos.com/)
-  [![](https://img.shields.io/badge/Huawei-FF0000?logo=Huawei&logoColor=white)](https://www.huawei.com/)
 
   [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
   [![](https://img.shields.io/badge/IDE-CLion-000000?style=flat-square&logo=CLion&logoColor=ffffff)](https://www.jetbrains.com/clion/)
