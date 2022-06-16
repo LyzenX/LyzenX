@@ -20,6 +20,7 @@
   ![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
   ![](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
+  ![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
      
   [![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
   [![](https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white)](https://www.android.com)
@@ -39,6 +40,7 @@
 
   [![](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)](https://www.jetbrains.com/idea/)
   [![](https://img.shields.io/badge/IDE-CLion-000000?style=flat-square&logo=CLion&logoColor=ffffff)](https://www.jetbrains.com/clion/)
+    [![](https://img.shields.io/badge/IDE-PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
   [![](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=ffffff)](https://developer.android.google.cn/studio)
       
   [![](https://img.shields.io/badge/BugsMaker-F58025?logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
