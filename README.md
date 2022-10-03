@@ -9,7 +9,7 @@
   </a>
   -->
       
-  😄 I'm LSeng. A fullstack developer from 🇨🇳.
+  😄 I'm Lyzen. A fullstack developer from 🇨🇳.
       
   ✨ Code with
     
@@ -34,7 +34,7 @@
   [![](https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white)](https://opengl.org/)
   [![](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)](https://opencv.org/)
   [![](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-  [![](https://img.shields.io/badge/Arduino-00979D?logo=Arduino&logoColor=white)](https://www.arduino.cc/)
+  [![](https://img.shields.io/badge/STM32-03234B?logo=STMicroelectronics&logoColor=white)](https://www.st.com/content/st_com/en.html)
   [![](https://img.shields.io/badge/RaspberryPi-A22846?logo=Raspberry-Pi&logoColor=white)](https://www.raspberrypi.org/)
   [![](https://img.shields.io/badge/OpenHarmony-gray?logo=Osano&logoColor=white)](https://developer.harmonyos.com/)
 
