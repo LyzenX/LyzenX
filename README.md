@@ -15,11 +15,11 @@
     
   <div>
       
-  [![](https://img.shields.io/badge/Java-E6882E?logo=java&logoColor=fff)](https://www.java.com/zh-CN/)
+  ![](https://img.shields.io/badge/Java-E6882E?logo=java&logoColor=fff)(https://www.java.com/zh-CN/)
   ![](https://img.shields.io/badge/C++-00599C?logo=C++&logoColor=white)
   ![](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-  ![](https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white)
+  ![](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
   ![](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
      
   [![](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)](https://www.linuxfoundation.org/)
